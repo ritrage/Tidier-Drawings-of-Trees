@@ -1,0 +1,10 @@
+﻿  bresenhamLine.cpp
+  balancedBinaryTree.cpp
+D:\Assignment1\Tidier-Drawings-of-Trees\Assignment1\balancedBinaryTree.h(16,2): warning C4091: 'typedef ': ignored on left of 'node' when no variable is declared
+D:\Assignment1\Tidier-Drawings-of-Trees\Assignment1\balancedBinaryTree.h(22,2): warning C4091: 'typedef ': ignored on left of 'extreme' when no variable is declared
+  main.cpp
+D:\Assignment1\Tidier-Drawings-of-Trees\Assignment1\balancedBinaryTree.h(16,2): warning C4091: 'typedef ': ignored on left of 'node' when no variable is declared
+D:\Assignment1\Tidier-Drawings-of-Trees\Assignment1\balancedBinaryTree.h(22,2): warning C4091: 'typedef ': ignored on left of 'extreme' when no variable is declared
+  midpointCircle.cpp
+  Generating Code...
+  Assignment1.vcxproj -> D:\Assignment1\Tidier-Drawings-of-Trees\Debug\Assignment1.exe
